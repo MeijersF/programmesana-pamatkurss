@@ -1,1 +1,1 @@
-print("ābols")
+print("le le le")
