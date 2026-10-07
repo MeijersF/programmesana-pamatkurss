@@ -1,0 +1,1 @@
+print("Felicita Meijere\nProgrammēšanas pamatkurss\n")
