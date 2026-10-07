@@ -6,8 +6,7 @@ Autors: **Felicita Meijere**
 - palaist.
 
 ## Licence
-<<<<<<< HEAD
-MIT nosaka, ka veicot kaut ko ar manu kodu, jānorāda mani kā sākotnējo autoru.
+MIT nosaka, ka veicot kaut ko ar manu kodu, jānorāda **mani** kā sākotnējo autoru.
 
 ## MIT un GPL prasības
 MIT - "License and copyright notice" - licencētajam materiālam jāpievieno licences un autortiesību paziņojuma kopija.
@@ -15,6 +14,5 @@ GPL - kopā 4. viena no tām ir tā pati "License and copyright notice", cita - 
 
 ## Kāpēc MIT
 MIT licence ir mazāk ierobežojoša, jo tā ļauj citiem brīvi izmantot manu programmu. Tā neprasa atklāt modificētā projekta sākotnējo kodu, atšķirībā no GPL, kas noteiktos gadījumos pieprasa atvasinātā darba sākuma kodu izplatīt ar tādu pašu licenci.
-=======
-MIT nosaka, ka veicot kaut ko ar manu kodu, jānorāda **mani** kā sākotnējo autoru.
->>>>>>> 2dd967c3c0b972c53d3c2fadff2efed1354a7dd3
+
+
