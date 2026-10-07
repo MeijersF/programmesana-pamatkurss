@@ -10,3 +10,9 @@ COmmit ziņai jābūt konkrētai, lai vēlāk lasot to, var saprast kāpēc ir v
 3 uzd.
 2.-3. - programma strādā
 7. secinājums - tas pats ceļš strādā vai nestrādā atkarībā kurā mapē atrodas terminālis. cd pārvietoja to uz uzdevumu mapi no prog-pamatkurss, tāpec atkārtoti sākotnējais kods nestrādāja.
+
+# Projekta struktūra
+
+uzdevumi - diena1.py un sveiciens.py
+dati - noslepums.txt
+.gitignore pasaka Git kurus failus un mapes var ignorēt.
