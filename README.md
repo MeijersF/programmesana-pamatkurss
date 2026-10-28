@@ -27,3 +27,15 @@ c =  'float'
 ievadod "1,5" nevis "1.5", jo python skaitli atdalītu ar komatu neuztver kā skaitli.
 Python decimālskaitļi jāraksta ar punktu, jo komatam ir cita funkcija, ko tas veic.
 
+## 2.2 uzdevumi
+
+1.uzd
+tiek izdrukāts "55"
+ieliekot int(), tiek izdrukāts "10"
+bojājums atkarībā no HP vērtības:
+0 = 0.0
+-50 = -60  - matemātiski ir pareizs, bet pēc lōģikas, Anna jau mirusi..
+tukšs = ValueError
+
+Palaižot ar jaudu "abc" rādās ValueError
+pirmā ievade bīstamāka, jo tur ir sarkana krāsa.
