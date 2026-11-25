@@ -4,6 +4,9 @@ print(17 % 5)
 
 print(2 ** 3)
 
+# print(17 / 5) = 3.4; print(17 // 5) = 3; print(17 % 5) = 2; print(2 ** 3) = 8
+
+
 mantas = int(input("Cik mantu ir? "))
 somas_ietilpiba = int(input("Cik mantu ietilpst somā? "))
 pilnas = mantas // somas_ietilpiba

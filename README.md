@@ -51,3 +51,8 @@ print(2 ** 3) = 8
 
 3.uzd.
 :.1f figūriekavās noapaļo bezgalīgo decimālskaitli līdz desmitdaļām.
+
+## 2.4 uzdevumi
+
+3.uzd.
+labs mainīgā vārds ir svarīgāks par komentāru, jo labāk ir uzreiz uzrakstīt/izskaidrot kaut ko skaidri, nevis lieki rakstīt papildus komentārus, atkārtojot to, kas jau it kā uzrakstīts.
