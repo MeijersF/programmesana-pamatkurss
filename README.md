@@ -39,3 +39,15 @@ tukšs = ValueError
 
 Palaižot ar jaudu "abc" rādās ValueError
 pirmā ievade bīstamāka, jo tur ir sarkana krāsa.
+
+## 2.3 uzdevumi
+
+1.uzd.
+print(17 / 5) = 3.4
+print(17 // 5) = 3
+print(17 % 5) = 2
+
+print(2 ** 3) = 8
+
+3.uzd.
+:.1f figūriekavās noapaļo bezgalīgo decimālskaitli līdz desmitdaļām.
