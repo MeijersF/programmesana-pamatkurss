@@ -14,6 +14,12 @@
 
 | Mainīgā vārds | Datu tips | Ko glabā |
 | :--- | :---: | ---: |
-|speletaja_vards|
-|speletaja_vecums|
-|rezultats
+|speletaja_vards|Str|vārdu|
+|speletaja_vecums|Int|vecumu|
+|izveletais_gads|Int|Izvēlēto gadu|
+|speleteja_gads|Int|dzimšanas gadu|
+|rezultats|Float|rezultātu|
+
+rezultats = (input4 - input3 + input2)
+
+no input nāk spēlētaja vecums, gads un izvēlētais gads, tiek aprēķināts rezultāts.
