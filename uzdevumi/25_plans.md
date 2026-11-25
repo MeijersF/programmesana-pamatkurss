@@ -13,6 +13,7 @@
 
 
 | Mainīgā vārds | Datu tips | Ko glabā |
+| :--- | :---: | ---: |
 |speletaja_vards|
 |speletaja_vecums|
 |rezultats
